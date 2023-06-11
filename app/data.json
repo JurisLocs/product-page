@@ -1,0 +1,94 @@
+{
+    "success": 1,
+    "product": {
+      "name": "Product title",
+      "tags": [
+        "esse",
+        "ex non commodo"
+      ],
+      "options": [
+        {
+          "label": "4K",
+          "price": {
+            "value": "199.95000",
+            "currency": {
+              "code": "ZAR",
+              "symbol": "R",
+              "format": "R%1"
+            }
+          },
+          "old_price": {
+            "value": "199.95000",
+            "currency": {
+              "code": "ZAR",
+              "symbol": "R",
+              "format": "R%1"
+            }
+          }
+        },
+        {
+          "label": "4K",
+          "price": {
+            "value": "199.95000",
+            "currency": {
+              "code": "ZAR",
+              "symbol": "R",
+              "format": "R%1"
+            }
+          },
+          "old_price": {
+            "value": "199.95000",
+            "currency": {
+              "code": "ZAR",
+              "symbol": "R",
+              "format": "R%1"
+            }
+          }
+        }
+      ],
+      "discount": {
+        "amount": "10%",
+        "end_date": "2021-03-11T19:50:52+01:00"
+      },
+      "gallery": [
+        {
+          "main": "product-images/product-image-01.jpg"
+        },
+        {
+          "main": "product-images/product-image-01.jpg"
+        }
+      ],
+      "shipping": {
+        "method": {
+          "country": "South Africa",
+          "title": "Express UPS Saver",
+          "shipping_time": {
+            "value": "2-3 working days",
+            "info": "in id nisi incididu"
+          },
+          "cost": {
+            "value": "199.95000",
+            "currency": {
+              "code": "ZAR",
+              "symbol": "R",
+              "format": "R%1"
+            }
+          }
+        },
+        "lead_time": {
+          "value": "5 days",
+          "info": "est dolor cupidatat et aliquip"
+        },
+        "props": {
+          "ready_to_ship": true,
+          "in_stock": false,
+          "fast_dispatch": true
+        }
+      },
+      "reviews": {
+        "rating": "4.5",
+        "count": 40973119,
+        "total_buyers": -20869614
+      }
+    }
+  }

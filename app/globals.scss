@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+    padding:0px;
+    width:100%;
+    font-family: 'Roboto-regular',sans-serif ;
+    @media (max-width:768px) {
+        width:100%;
+    }
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #E6E7EB;
+    margin: 0;
+    padding: 0;
+  }
