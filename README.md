@@ -20,6 +20,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Project description
 
-For the project I used next.js and scss
-The given API was not giving any responses so I copied exmple response and saved it as local json file
+For the project I used next.js and scss.
+The given API was not giving any responses so I copied exmple response and saved it as local json file.
 There was an attempt to use redux to change price with counters/incrementers, but lack of time and documentation made it unsuccessful.
