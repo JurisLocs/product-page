@@ -5,10 +5,11 @@
 
   .container {
     flex: 1;
-    margin-right: 0.75rem;
+    
   }
   .productContainer{
-    width: 32.875rem;
+    width: 35.875rem;
+    margin-left: 0.75rem;
     margin-right: 0.75rem;
     @media (max-width:768px) {
       width: 100%;
@@ -127,12 +128,14 @@
 
 .marchExpo{
   font-size: 0.875rem;
+  line-height: 1rem;
   display: flex;
   margin-top: 0.75rem;
   background: #FFF0E6;
   color: #FF6600;
   height:40px;
   align-items: center;
+  text-align: left;
   .onTime{
     margin-left: 1.5rem;
     @media (max-width:768px) {
@@ -141,7 +144,7 @@
   }
 }
 .arrow{
-  margin: 13px 25px 13px 16px ;
+  margin: 13px 16px 13px 25px ;
 }
 
 .countdownTimer{
@@ -266,7 +269,7 @@
   border-radius: 8px;
   background-color: #FFFFFF;
   box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.05);
-  width: 19.125rem;
+  width: 17.625rem;
   @media (max-width:768px) {
     width: 100%;
     margin: 0;
