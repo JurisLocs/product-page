@@ -25,3 +25,6 @@ For the project I used next.js and scss.
 The given API was not giving any responses so I copied exmple response and saved it as local json file.
 
 There was an attempt to use redux to change price with counters/incrementers, but lack of time and documentation made it unsuccessful.
+
+Overall this project could use some refactoring and better framework research (creating more compnents optimising client and server side rendering).
+If I would make this project again with given limitations I would avoid using next.js. While these frameworks and technologies can be powerful, in my experience, they disrupted each other's core principles and felt like an anti-pattern.
